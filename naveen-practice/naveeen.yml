@@ -1,0 +1,6 @@
+---
+- name: naveen
+  hosts: ubuntu
+  become: yes
+  tasks:
+     - name: naveen-1
