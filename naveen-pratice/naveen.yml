@@ -1,4 +1,0 @@
----
-- name: naveen
-  hosts: ubuntu
-  become: yes
